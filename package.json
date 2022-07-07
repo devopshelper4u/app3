@@ -1,0 +1,17 @@
+{
+    "name": "app3",
+    "version": "3.0.5",
+    "description": "some desc",
+    "main": "index.js",
+    "scripts": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/"
+    },
+    "keywords": [],
+    "author": "",
+    "homepage": "https://github.com/devopshelper4u/app3#readme",
+    "dependencies": {
+    }
+  }
